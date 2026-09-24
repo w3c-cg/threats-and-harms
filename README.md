@@ -1,5 +1,3 @@
+# Threats & Harms Community Group
 
-# Specification 'threats-and-harms'
-
-This is the repository for threats-and-harms. You're welcome to contribute! Let's make the Web rock our socks
-off!
+This is the repository for the [Threats and Harms Community Group](https://www.w3.org/groups/cg/threats-and-harms/).
