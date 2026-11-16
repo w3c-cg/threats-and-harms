@@ -15,7 +15,7 @@ Our aim is not to block or slow standards work, but to give groups a practical w
 * Contribute to [Societal Impact Questionnaire](https://www.w3.org/TR/societal-impact-questionnaire/), principles, checklists, and other review documents that can be used for human rights due diligence / wide review.  
 * Identify potential threats and harms to human rights on Internet and Web  
 * Identify mitigation strategies and inform W3C work that improves our overall posture on human rights   
-* reporting on human rights topics and the impacts of W3C standards  
+* Reporting on human rights topics and the impacts of W3C standards  
 * Organize breakout(s) at W3C events such as TPAC  
 * Liaise with human rights focused groups at other technology standards organisations  
 * Keep track of positive and negative societal impacts of W3C’s technical programme, including impacts that fall between or across existing horizontal review areas  
