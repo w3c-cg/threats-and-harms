@@ -11,7 +11,7 @@ Our aim is not to block or slow standards work, but to give groups a practical w
 ## Goals
 
 * Bringing in representation from NGOs and other organizations that have a focus on human rights topics in the digital domain, and actively survey them.   
-* Make it easier for experts from civil society orgs and academia focused on societal impact of technology to share thoughts on ongoing work  
+* Make it easier for experts from civil society organizations and academia focused on societal impact of technology to share thoughts on ongoing work  
 * Contribute to Societal Impact Questionnaire, principles, checklists, and other review documents that can be used for human rights due diligence / wide review.  
 * Identify potential threats and harms to human rights on Internet and Web  
 * Identify mitigation strategies and inform w3c work that improves our overall posture on human rights   
