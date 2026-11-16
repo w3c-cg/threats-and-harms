@@ -19,7 +19,7 @@ Our aim is not to block or slow standards work, but to give groups a practical w
 * Organize breakout(s) at W3C events such as TPAC  
 * Liaise with human rights focused groups at other technology standards organisations  
 * Keep track of positive and negative societal impacts of W3C’s technical programme, including impacts that fall between or across existing horizontal review areas  
-* Being a forum to discuss and examine the trade-offs that are inherent in these discussions and to identify areas where a nuanced approach is important
+* Bring a forum to discuss and examine the trade-offs that are inherent in these discussions and to identify areas where a nuanced approach is important
 
 Non-goals: 
 
